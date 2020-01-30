@@ -1,0 +1,43 @@
+td {
+    position: relative;
+    height: 30px;
+    width: 50px;
+    text-align: center;
+    background: #AFCDE7;
+    color: white;
+}
+
+.highlight {
+    background-color: #D1C7BF;
+    color: #3D3511;
+}
+
+.percentage-bgr {
+    background-color: #F79361;
+    width: 50px;
+    position: absolute;
+    bottom: 5px;
+}
+
+p {
+    position: absolute;
+    bottom: -8px;
+    left: 5px;
+    z-index: 1;
+    color: #3D3511;
+}
+
+.sum {
+    color: #F2906B;
+    background: #F8E391;
+    ;
+}
+
+.average {
+    color: #777;
+    background: #F8E391;
+}
+
+.remove-btn {
+    background: #FFF;
+}
